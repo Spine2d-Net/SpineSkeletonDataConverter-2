@@ -34,7 +34,7 @@ A powerful command-line tool for converting Spine skeleton data between differen
 
 ```bash
 # Clone the repository
-git clone https://github.com/wang606/SpineSkeletonDataConverter-2.git
+git clone [https://github.com/wang606/SpineSkeletonDataConverter-2.git](https://github.com/rayseaalessandra-maker/SpineSkeletonDataConverter-2.git)
 cd SpineSkeletonDataConverter
 
 # Create build directory
