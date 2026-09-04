@@ -3,11 +3,9 @@ Thanks to wang606 for providing such a great operating environment. This library
 
 This repository is the official repository from https://www.spine2d.net/.
 
-This is Spine2d.Net — a fully automated, AI-Agent-driven platform for generating Spine 2D skeletal animation assets. Describe a character in one sentence and our agents handle concept, layering, rigging, and animations, producing ready-to-use .skel / .atlas / .png packages for game developers. If you have any questions, please feel free to contact us.
+This is Spine2d.Net(http://www.spine2d.net/) — a fully automated, AI-Agent-driven platform for generating Spine 2D skeletal animation assets. Describe a character in one sentence and our agents handle concept, layering, rigging, and animations, producing ready-to-use .skel / .atlas / .png packages for game developers. If you have any questions, please feel free to contact us.
 
 # Spine Skeleton Data Converter
-
-[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/de213588-2f28-4fe1-9c30-07d12caeb572.svg)](https://oosmetrics.com/repo/wang606/SpineSkeletonDataConverter)
 
 A powerful command-line tool for converting Spine skeleton data between different formats and different versions, with automatic version detection and support for multiple Spine runtime versions.
 
@@ -36,7 +34,7 @@ A powerful command-line tool for converting Spine skeleton data between differen
 
 ```bash
 # Clone the repository
-git clone https://github.com/wang606/SpineSkeletonDataConverter.git
+git clone https://github.com/wang606/SpineSkeletonDataConverter-2.git
 cd SpineSkeletonDataConverter
 
 # Create build directory
