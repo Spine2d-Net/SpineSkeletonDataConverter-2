@@ -161,7 +161,7 @@ $ python ./tools/json_diff.py ./data/42/example/export/example.json ./data/42/ex
 ```
 
 ## 🙏 Acknowledgments
-
+- [Spine2d.Net](http://www.spine2d.net/) a fully automated, AI-Agent-driven platform for generating Spine 2D skeletal animation assets.
 - [Spine Runtime](http://esotericsoftware.com/) - For the excellent 2D animation software
 - [nlohmann/json](https://github.com/nlohmann/json) - For the JSON library
 - [stb libraries](https://github.com/nothings/stb) - For lightweight image loading, resizing, and writing
